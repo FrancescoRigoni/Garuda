@@ -11,7 +11,7 @@ const router = express.Router();
   Endpoint: /user/add
   Body:
     {
-        "id": Ticketswap user ID,
+        "ticketSwapUserId": Ticketswap user ID,
         "firstName": First name
         "lastName": First name
     }
